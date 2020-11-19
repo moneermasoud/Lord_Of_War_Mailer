@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8FDE05CA-9262-400F-B4E6-CBB496C44A0E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Lord_Of_War_Mailer.My.MyApplication</StartupObject>
+    <RootNamespace>Lord_Of_War_Mailer</RootNamespace>
+    <AssemblyName>Lord_Of_War_Mailer</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Lord_Of_War_Mailer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Lord_Of_War_Mailer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>iconfinder_bw_2274510.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="config.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_about.Designer.vb">
+      <DependentUpon>Frm_about.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_about.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Emails.Designer.vb">
+      <DependentUpon>Frm_Emails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Emails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Groups.Designer.vb">
+      <DependentUpon>Frm_Groups.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Groups.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Sender.Designer.vb">
+      <DependentUpon>Frm_Sender.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Sender.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_settings.Designer.vb">
+      <DependentUpon>Frm_settings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_smtp.Designer.vb">
+      <DependentUpon>Frm_smtp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_smtp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_about.resx">
+      <DependentUpon>Frm_about.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Emails.resx">
+      <DependentUpon>Frm_Emails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Groups.resx">
+      <DependentUpon>Frm_Groups.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Sender.resx">
+      <DependentUpon>Frm_Sender.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_settings.resx">
+      <DependentUpon>Frm_settings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_smtp.resx">
+      <DependentUpon>Frm_smtp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lord-of-war-logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="iconfinder_bw_2274510.ico" />
+    <None Include="Resources\if_034_95926%281%29.png" />
+    <None Include="Resources\iconfinder_floppy_285657.png" />
+    <None Include="Resources\loading-blue.gif" />
+    <None Include="Resources\iconfinder_play_alt_118620.png" />
+    <None Include="Resources\118946 - attachment mail.png" />
+    <None Include="Resources\118922 - edit find.png" />
+    <None Include="Resources\118755 - edit undo.png" />
+    <None Include="Resources\118917 - clear edit.png" />
+    <None Include="Resources\source.gif" />
+    <None Include="Resources\iconfinder_Close_324471.png" />
+    <None Include="Resources\iconfinder_Refresh_32541.png" />
+    <None Include="Resources\iconfinder_Turn off_32565.png" />
+    <None Include="Resources\iconfinder_Modify_32510.png" />
+    <None Include="Resources\iconfinder_Notes_32519.png" />
+    <None Include="Resources\iconfinder_Add_32431.png" />
+    <None Include="Resources\iconfinder_user-id_285641.png" />
+    <None Include="Resources\iconfinder_address-book_299084.png" />
+    <None Include="Resources\iconfinder_database_51902.png" />
+    <None Include="Resources\iconfinder_smtp_server_44694.png" />
+    <None Include="Resources\iconfinder_user-group_285648.png" />
+    <None Include="Resources\iconfinder_icon-65-compass_315939.png" />
+    <None Include="Resources\iconfinder_icon-46-half-moon_316299 %281%29.png" />
+    <None Include="Resources\iconfinder_icon-46-half-moon_316299.png" />
+    <None Include="Resources\iconfinder_icon-29-information_314866.png" />
+    <None Include="Resources\iconfinder_icon-62-document-table_314903.png" />
+    <None Include="Resources\iconfinder_icon-6-mail-envelope-closed_314900.png" />
+    <None Include="Resources\iconfinder_icon-27-one-finger-click_315854.png" />
+    <None Include="Resources\iconfinder_icon-45-note-list_314884.png" />
+    <None Include="Resources\iconfinder_bw_2274510.png" />
+    <None Include="Resources\iconfinder_bw_2274510 %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,16 @@
+D:\برمجة\Lord_Of_War_Mailer\Lord_Of_War_Mailer\bin\Debug\Lord_Of_War_Mailer.exe.config
+D:\برمجة\Lord_Of_War_Mailer\Lord_Of_War_Mailer\bin\Debug\Lord_Of_War_Mailer.exe
+D:\برمجة\Lord_Of_War_Mailer\Lord_Of_War_Mailer\bin\Debug\Lord_Of_War_Mailer.pdb
+D:\برمجة\Lord_Of_War_Mailer\Lord_Of_War_Mailer\bin\Debug\Lord_Of_War_Mailer.xml
+D:\برمجة\Lord_Of_War_Mailer\Lord_Of_War_Mailer\obj\Debug\Lord_Of_War_Mailer.Form1.resources
+D:\برمجة\Lord_Of_War_Mailer\Lord_Of_War_Mailer\obj\Debug\Lord_Of_War_Mailer.Resources.resources
+D:\برمجة\Lord_Of_War_Mailer\Lord_Of_War_Mailer\obj\Debug\Lord_Of_War_Mailer.vbproj.GenerateResource.Cache
+D:\برمجة\Lord_Of_War_Mailer\Lord_Of_War_Mailer\obj\Debug\Lord_Of_War_Mailer.exe
+D:\برمجة\Lord_Of_War_Mailer\Lord_Of_War_Mailer\obj\Debug\Lord_Of_War_Mailer.xml
+D:\برمجة\Lord_Of_War_Mailer\Lord_Of_War_Mailer\obj\Debug\Lord_Of_War_Mailer.pdb
+D:\برمجة\Lord_Of_War_Mailer\Lord_Of_War_Mailer\obj\Debug\Lord_Of_War_Mailer.Frm_smtp.resources
+D:\برمجة\Lord_Of_War_Mailer\Lord_Of_War_Mailer\obj\Debug\Lord_Of_War_Mailer.Frm_Groups.resources
+D:\برمجة\Lord_Of_War_Mailer\Lord_Of_War_Mailer\obj\Debug\Lord_Of_War_Mailer.Frm_Emails.resources
+D:\برمجة\Lord_Of_War_Mailer\Lord_Of_War_Mailer\obj\Debug\Lord_Of_War_Mailer.Frm_Sender.resources
+D:\برمجة\Lord_Of_War_Mailer\Lord_Of_War_Mailer\obj\Debug\Lord_Of_War_Mailer.Frm_about.resources
+D:\برمجة\Lord_Of_War_Mailer\Lord_Of_War_Mailer\obj\Debug\Lord_Of_War_Mailer.Frm_settings.resources

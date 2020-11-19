@@ -1,0 +1,148 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Lord_Of_War_Mailer
+</name>
+</assembly>
+<members>
+<member name="P:Lord_Of_War_Mailer.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources._118755___edit_undo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources._118917___clear_edit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources._118922___edit_find">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources._118946___attachment_mail">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_Add_32431">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_address_book_299084">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_bw_2274510">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_bw_2274510__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_Close_324471">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_database_51902">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_floppy_285657">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_icon_27_one_finger_click_315854">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_icon_29_information_314866">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_icon_45_note_list_314884">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_icon_46_half_moon_316299">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_icon_46_half_moon_316299__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_icon_6_mail_envelope_closed_314900">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_icon_62_document_table_314903">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_icon_65_compass_315939">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_Modify_32510">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_Notes_32519">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_play_alt_118620">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_Refresh_32541">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_smtp_server_44694">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_Turn_off_32565">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_user_group_285648">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.iconfinder_user_id_285641">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.if_034_95926_1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.loading_blue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.lord_of_war_logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Lord_Of_War_Mailer.My.Resources.Resources.source">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Lord_Of_War_Mailer.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
